@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 
 
 ## 📊 **GitHub Stats**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranJCodes&show_icons=true&theme=radical)](https://github.com/yourusername)  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranJCodes&show_icons=true&theme=radical)](https://github.com/KiranJCodes)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranJCodes&layout=compact)](https://github.com/KiranJCodes)  
 
 ---
