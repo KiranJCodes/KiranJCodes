@@ -3,9 +3,10 @@
 
 Welcome to my GitHub! I'm passionate about turning data into actionable insights and currently teaching Python to aspiring coders.  
 
-🔭 **Currently working on:** 
-🌱 **Learning:** "Advanced Machine Learning Techniques"
-💬 **Ask me about:** Python, Pandas, SQL, or how to break into data analytics!  
+🔭 **Currently working on:** [EDA analysis on Coffee](https://github.com/KiranJCodes/GithubProjects/tree/main/Coffee) <br>
+📊 **Last project:** [Salary Prediction](https://github.com/KiranJCodes/GithubProjects/tree/main/Salary%20Prediction) <br>
+🌱 **Learning:** Advanced Machine Learning Techniques <br>
+💬 **Ask me about:** Python, Pandas, SQL, or how to break into data analytics!  <br>
 
 ---
 
