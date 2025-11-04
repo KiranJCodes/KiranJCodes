@@ -3,8 +3,8 @@
 
 Welcome to my GitHub! I'm passionate about turning data into actionable insights and currently teaching Python to aspiring coders.  
 
-🔭 **Currently working on:** [EDA analysis on Coffee](https://github.com/KiranJCodes/GithubProjects/tree/main/Coffee) <br>
-📊 **Last project:** [Salary Prediction](https://github.com/KiranJCodes/GithubProjects/tree/main/Salary%20Prediction) <br>
+🔭 **Currently working on:** [Credit risk end-end](https://github.com/KiranJCodes/GithubProjects/tree/main/Credit%20Risk%20end-to-end) <br>
+📊 **Last project:** [EDA analysis on Coffee](https://github.com/KiranJCodes/GithubProjects/tree/main/Coffee) <br>
 🌱 **Learning:** Advanced Machine Learning Techniques <br>
 💬 **Ask me about:** Python, Pandas, SQL, or how to break into data analytics!  <br>
 
@@ -12,8 +12,8 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 
 ## 🛠️ **Skills & Tools**  
 **Programming:** Python (Pandas, NumPy, Scikit-learn), SQL  
-**Data Visualization:** Matplotlib, Seaborn, Plotly  
-**Tools:** Jupyter Notebooks, Git  
+**Data Visualization:** Matplotlib, Seaborn, Plotly, PowerBI
+**Tools:** Jupyter Notebooks, Git, Bash
 **Teaching:** 2+ years tutoring Python & data concepts  
 
 ---
