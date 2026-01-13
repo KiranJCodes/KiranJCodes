@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Kiran
-### **Data Analyst | Python Tutor | MS in Data Analytics**  
+### **Data Analyst | MS in Data Analytics**  
 
 Welcome to my GitHub! I'm passionate about turning data into actionable insights and currently teaching Python to aspiring coders.  
 
-🔭 **Currently working on:** [Credit risk end-end](https://github.com/KiranJCodes/GithubProjects/tree/main/Credit%20Risk%20end-to-end) <br>
-📊 **Last project:** [EDA analysis on Coffee](https://github.com/KiranJCodes/GithubProjects/tree/main/Coffee) <br>
-🌱 **Learning:** Advanced Machine Learning Techniques <br>
+🔭 **Currently working on:** on a break | preparing for interview questions <br>
+📊 **Last project:** <br>1. [Stock data Pipeline](https://github.com/KiranJCodes/GithubProjects/tree/main/Stock%20data) <br>
+                     2. [Credit risk end-end](https://github.com/KiranJCodes/GithubProjects/tree/main/Credit%20Risk%20end-to-end) <br>
+🌱 **Learning:** Mastering SQL flow of commands and advanced methods <br>
 💬 **Ask me about:** Python, Pandas, SQL, or how to break into data analytics!  <br>
 
 ---
@@ -27,7 +28,7 @@ Welcome to my GitHub! I'm passionate about turning data into actionable insights
 ---
 
 ## 🤝 **Let’s Connect!**  
-I’m always open to collaborating on data projects or discussing Python education.  
+I’m always open to collaborating on data projects.  
 📩 **Email:** kiranjmails@gmail.com
 🔗 **LinkedIn:** https://www.linkedin.com/in/kiran-jayraj/
 
